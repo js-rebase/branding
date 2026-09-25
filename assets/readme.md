@@ -22,7 +22,7 @@ This is the Assets folder. You can find all Assets, such as logos and banners, h
       <td width="10%">"The Brackets"</td>
       <td width="40%"><img src="brackets.svg" alt="'The Brackets' as Vector File"/></td>
       <td width="40%"><img src="brackets.png" alt="'The Brackets' as PNG File"/></td>
-      <td width="10%">Yes, downloads ladies and gentleman</td>
+      <td width="10%"><a href="brackets.af" download>Download</a></td>
     </tr>
   </tbody>
 </table>
